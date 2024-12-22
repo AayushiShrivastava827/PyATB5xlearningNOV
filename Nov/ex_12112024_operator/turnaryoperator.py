@@ -1,0 +1,1 @@
+# ternary operator kind of if else satement
